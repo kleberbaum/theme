@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 
 <svg xmlns="http://www.w3.org/2000/svg" width="11.8056in" height="11.8056in" viewBox="0 0 850 850">
-  <path id="wg-border" fill="none" d="M 850.00,0.00
+  <path id="wg-border" fill="#FFFFFF" d="M 850.00,0.00
            C 850.00,0.00 850.00,850.00 850.00,850.00
              850.00,850.00 0.00,850.00 0.00,850.00
              0.00,850.00 0.00,0.00 0.00,0.00
